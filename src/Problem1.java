@@ -1,8 +1,8 @@
 // Christopher Gonzales
-// Project Euler Code
+// Project Euler Code Problem #1
 
 
-public class Project1 {
+public class Problem1 {
 	
 	public static void main(String[] args){
 		int number = 1000;

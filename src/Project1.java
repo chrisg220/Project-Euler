@@ -13,8 +13,6 @@ public class Project1 {
 				total +=  i;
 			} else if (i % 5 == 0) {
 				total += i;
-			} else {
-				total += 0;
 			}
 		}
 		System.out.print(total);
